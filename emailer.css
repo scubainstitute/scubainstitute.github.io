@@ -27,11 +27,15 @@
 /*EMAILER PG2*/
 
 /*Jumbotron*/
+.jumbotron{
+    background-color: #060606;
+}
+
 .logo-s{
     border-radius: 50.1%;
-    max-width: 30%;
-    margin-left: 50em;
-    margin-top: -13em;
+    max-width: 45%;
+    /* margin-left: 60%; */
+    /* margin-top: -13em; */
 }
 
 .text-des{
